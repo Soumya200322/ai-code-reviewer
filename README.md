@@ -131,16 +131,6 @@ http://localhost:8501
 
 ---
 
-## 👨‍💻 Author
 
-Soumya Ranjan Sahoo
-
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-
----
-
-## 📄 License
 
 This project is intended for educational and learning purposes.
